@@ -1,0 +1,16 @@
+文本式留言板
+
+知识点：
+
+1、文件操作：file_put_contents();文件写入(覆盖原有信息)
+             file_get_contents();文件读取
+2、字符串处理函数：
+             explode();拆分函数
+             implode();将数组以指定分隔符合并成子串的函数
+3、数组操作：
+             foreach();遍历数组
+             unset();销毁变量
+             $_POST[]
+             $_SERVER["REMOTE_ADDR"];获取客户端IP地址
+             time();获取当前系统的时间戳
+             date();日期转换函数
